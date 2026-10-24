@@ -15,7 +15,6 @@ pwd
 gci -Force
 mv "nhap_hang.txt" docs
 mv "logo_van_phong_pham.png" media
-cp "/media/logo_van_phong_pham.png" backup
 cp "media/logo_van_phong_pham.png" backup
 rm "temp_131.tmp"
 cd logs
